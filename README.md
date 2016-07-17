@@ -1,11 +1,8 @@
 # HyperTerm Theme Oceanic Material
 
+> Material Oceanic [HyperTerm](https://hyperterm.org) theme
 ![](assets/screenshot.png)
 
-## Contains
-
-- [Install](#install)
-- [License](#license)
 
 ## Install
 
