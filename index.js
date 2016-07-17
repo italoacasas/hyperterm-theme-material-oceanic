@@ -12,7 +12,7 @@ exports.decorateConfig = (config) => {
       '#C0C5CE',
       '#CDD3DE',
       '#D8DEE9',
-      '#212a32',
+      '#17232d',
       '#F99157',
       '#FAC863',
       '#99C794',
@@ -27,7 +27,7 @@ exports.decorateConfig = (config) => {
         border: none !important;
       }
       .header_header {
-        background: #212a32 !important;
+        background: #17232d !important;
       }
       .tab_tab {
         border: 0;
