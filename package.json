@@ -1,0 +1,29 @@
+{
+  "name": "hyperterm-theme-material-oceanic",
+  "description": "HyperTerm Theme Meterial Oceanic",
+  "version": "0.1.0",
+  "author": "Italo A. Casas <me@italoacasas.com> (http://italoacasas.com/)",
+  "bugs": {
+    "url": "https://github.com/italoacasas/hyperterm-theme-oceanic/issues"
+  },
+  "devDependencies": {
+    "fixpack": "^2.3.1"
+  },
+  "homepage": "https://github.com/italoacasas/hyperterm-theme-oceanic#readme",
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme",
+    "material",
+    "oceanic",
+    "theme"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/italoacasas/hyperterm-theme-oceanic.git"
+  },
+  "scripts": {
+    "fix": "fixpack"
+  }
+}
