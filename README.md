@@ -1,5 +1,7 @@
 # HyperTerm Theme Oceanic Material
 
+![](assets/screenshot.png)
+
 ## Contains
 
 - [Install](#install)
