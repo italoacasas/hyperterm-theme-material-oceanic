@@ -4,12 +4,12 @@
   "version": "1.0.1",
   "author": "Italo A. Casas <me@italoacasas.com> (http://italoacasas.com/)",
   "bugs": {
-    "url": "https://github.com/italoacasas/hyperterm-theme-oceanic/issues"
+    "url": "https://github.com/italoacasas/hyperterm-theme-material-oceanic/issues"
   },
   "devDependencies": {
     "fixpack": "^2.3.1"
   },
-  "homepage": "https://github.com/italoacasas/hyperterm-theme-oceanic#readme",
+  "homepage": "https://github.com/italoacasas/hyperterm-theme-material-oceanic#readme",
   "keywords": [
     "hyperterm",
     "hyperterm-theme",
@@ -21,7 +21,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/italoacasas/hyperterm-theme-oceanic.git"
+    "url": "git+https://github.com/italoacasas/hyperterm-theme-material-oceanic.git"
   },
   "scripts": {
     "fix": "fixpack"
